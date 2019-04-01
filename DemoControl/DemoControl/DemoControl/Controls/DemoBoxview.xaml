@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DemoControl.Controls.DemoBoxview"
+             Title="Demo Box View">
+    <ContentPage.Padding>
+        <OnPlatform x:TypeArguments="Thickness">
+            <On Platform="iOS" Value="0, 20, 0, 0" />
+        </OnPlatform>
+    </ContentPage.Padding>
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Style TargetType="BoxView">
+                <Setter Property="Color" Value="Black" />
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <ScrollView Margin="15">
+        <StackLayout Orientation="Vertical"
+            HorizontalOptions="FillAndExpand"
+            VerticalOptions="FillAndExpand">
+            <AbsoluteLayout>
+                <BoxView AbsoluteLayout.LayoutBounds="0, 10, 200, 5" />
+                <BoxView AbsoluteLayout.LayoutBounds="0, 20, 200, 5" />
+                <BoxView AbsoluteLayout.LayoutBounds="10, 0, 5, 65" />
+                <BoxView AbsoluteLayout.LayoutBounds="20, 0, 5, 65" />
+                <Label Text="Color"
+           FontSize="24"
+           AbsoluteLayout.LayoutBounds="30, 25, AutoSize, AutoSize"/>
+            </AbsoluteLayout>
+
+            <StackLayout Orientation="Horizontal"
+                         HeightRequest="15">
+                <StackLayout HeightRequest="15"
+                             WidthRequest="30">
+                    <BoxView Color="Red"
+                    CornerRadius="2"
+                    WidthRequest="20"
+                    HeightRequest="15"
+                    VerticalOptions="End" />
+                </StackLayout>
+                <StackLayout VerticalOptions="Center"
+                    HeightRequest="15">
+                    <Label Text="Red"/>
+                </StackLayout>
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal"
+                         HeightRequest="15">
+                <StackLayout HeightRequest="15"
+                             WidthRequest="30">
+                    <BoxView Color="Green"
+                    CornerRadius="2"
+                    WidthRequest="20"
+                    HeightRequest="15"
+                    VerticalOptions="End" />
+                </StackLayout>
+                <StackLayout VerticalOptions="Center"
+                    HeightRequest="15">
+                    <Label Text="Green"/>
+                </StackLayout>
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal"
+                         HeightRequest="15">
+                <StackLayout HeightRequest="15"
+                             WidthRequest="30">
+                    <BoxView Color="Blue"
+                    CornerRadius="2"
+                    WidthRequest="20"
+                    HeightRequest="15"
+                    VerticalOptions="End" />
+                </StackLayout>
+                <StackLayout VerticalOptions="Center"
+                    HeightRequest="15">
+                    <Label Text="Blue"/>
+                </StackLayout>
+            </StackLayout>
+
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

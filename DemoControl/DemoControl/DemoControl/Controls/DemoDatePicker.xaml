@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DemoControl.Controls.DemoDatePicker"
+             Title="Demo Date Picker">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Days Between Dates"
+               Style="{DynamicResource TitleStyle}"
+               HorizontalTextAlignment="Center" />
+
+            <Label Text="Start Date:" />
+
+            <DatePicker x:Name="startDatePicker"
+                    Format="D"
+                    Margin="30, 0, 0, 30"
+                    DateSelected="OnDateSelected" />
+
+            <Label Text="End Date:" />
+
+            <DatePicker x:Name="endDatePicker"
+                    MinimumDate="{Binding Source={x:Reference startDatePicker},
+                                          Path=Date}"
+                    Format="D"
+                    Margin="30, 0, 0, 30"
+                    DateSelected="OnDateSelected" />
+
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Include both days in total: "
+                   VerticalOptions="Center" />
+                <Switch x:Name="includeSwitch"
+                    Toggled="OnSwitchToggled" />
+            </StackLayout>
+
+            <Label x:Name="resultLabel"
+               FontAttributes="Bold"
+               HorizontalTextAlignment="Center" />
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

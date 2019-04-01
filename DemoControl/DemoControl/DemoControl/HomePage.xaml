@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DemoControl.HomePage"
+             Title="Demo Controls">
+    <ContentPage.Content>
+        <StackLayout Spacing="0">
+            <Button Text="Demo Layout"
+                    IsEnabled="False"
+                    Clicked="OnDemoLayoutButtonClicked"/>
+            <Button Text="Demo Slider"
+                    Clicked="OnDemoSliderButtonClicked"/>
+            <Button Text="Demo Text"
+                    Clicked="OnDemoTextButtonClicked"/>
+            <Button Text="Demo BoxView"
+                    Clicked="OnDemoBoxViewButtonClicked"/>
+            <Button Text="Demo Table View"
+                    Clicked="OnDemoTableViewButtonClicked"/>
+            <Button Text="Demo Image"
+                    Clicked="OnDemoImageButtonClicked"/>
+            <Button Text="Demo Date Picker"
+                    Clicked="OnDemoDatePickerButtonClicked"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
