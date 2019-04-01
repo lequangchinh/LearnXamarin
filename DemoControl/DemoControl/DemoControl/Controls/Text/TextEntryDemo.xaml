@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DemoControl.Controls.Text.TextEntryDemo"
+             Title="Demo Text Entry">
+    <ContentPage.Content>
+        <StackLayout>
+            <Entry Text="This is a read-only Entry"
+                   IsEnabled="False"/>
+            <Entry Placeholder="Text Entry"></Entry>
+            <Entry Placeholder="Password Entry"
+                   IsPassword="True"
+                   x:Name="password"></Entry>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
