@@ -1,0 +1,16 @@
+C:\Users\lechi\source\repos\LearnXamarin\DemoNavigation\DemoNavigation\DemoNavigation\bin\Debug\netstandard2.0\DemoNavigation.deps.json
+C:\Users\lechi\source\repos\LearnXamarin\DemoNavigation\DemoNavigation\DemoNavigation\bin\Debug\netstandard2.0\DemoNavigation.dll
+C:\Users\lechi\source\repos\LearnXamarin\DemoNavigation\DemoNavigation\DemoNavigation\bin\Debug\netstandard2.0\DemoNavigation.pdb
+C:\Users\lechi\source\repos\LearnXamarin\DemoNavigation\DemoNavigation\DemoNavigation\obj\Debug\netstandard2.0\DemoNavigation.csprojAssemblyReference.cache
+C:\Users\lechi\source\repos\LearnXamarin\DemoNavigation\DemoNavigation\DemoNavigation\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\lechi\source\repos\LearnXamarin\DemoNavigation\DemoNavigation\DemoNavigation\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\lechi\source\repos\LearnXamarin\DemoNavigation\DemoNavigation\DemoNavigation\obj\Debug\netstandard2.0\DemoNavigation.csproj.CoreCompileInputs.cache
+C:\Users\lechi\source\repos\LearnXamarin\DemoNavigation\DemoNavigation\DemoNavigation\obj\Debug\netstandard2.0\DemoNavigation.AssemblyInfoInputs.cache
+C:\Users\lechi\source\repos\LearnXamarin\DemoNavigation\DemoNavigation\DemoNavigation\obj\Debug\netstandard2.0\DemoNavigation.AssemblyInfo.cs
+C:\Users\lechi\source\repos\LearnXamarin\DemoNavigation\DemoNavigation\DemoNavigation\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\lechi\source\repos\LearnXamarin\DemoNavigation\DemoNavigation\DemoNavigation\obj\Debug\netstandard2.0\DemoNavigation.dll
+C:\Users\lechi\source\repos\LearnXamarin\DemoNavigation\DemoNavigation\DemoNavigation\obj\Debug\netstandard2.0\DemoNavigation.pdb
+C:\Users\lechi\source\repos\LearnXamarin\DemoNavigation\DemoNavigation\DemoNavigation\obj\Debug\netstandard2.0\TestNavigationPage1.xaml.g.cs
+C:\Users\lechi\source\repos\LearnXamarin\DemoNavigation\DemoNavigation\DemoNavigation\obj\Debug\netstandard2.0\TestNavigationPage2.xaml.g.cs
+C:\Users\lechi\source\repos\LearnXamarin\DemoNavigation\DemoNavigation\DemoNavigation\obj\Debug\netstandard2.0\TestNavigationPage2a.xaml.g.cs
+C:\Users\lechi\source\repos\LearnXamarin\DemoNavigation\DemoNavigation\DemoNavigation\obj\Debug\netstandard2.0\TestNavigationPage3.xaml.g.cs

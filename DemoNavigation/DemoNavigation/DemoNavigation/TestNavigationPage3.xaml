@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DemoNavigation.TestNavigationPage3"
+             Title="Page 3">
+    <ContentPage.Content>
+        <StackLayout>
+            <Button Text="Previous Page"
+                    Clicked="OnPreviousButtonClicked"/>
+            <Button Text="Insert Page 2a Before Page 3"
+                    Clicked="OnInsertPage2aButtonClicked"/>
+            <Button Text="Remove Page 2"
+                    Clicked="OnRemovePage2ButtonClicked"/>
+            <Button Text="Return to Root"
+                    Clicked="OnReturnRootButtonClicked"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
