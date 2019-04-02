@@ -1,0 +1,1 @@
+C:\Users\lechi\source\repos\LearnXamarin\DemoNavigation\DemoNavigation\DemoNavigation.UWP\DemoNavigation.UWP.csproj;x86

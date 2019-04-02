@@ -1,0 +1,13 @@
+C:\Users\lechi\source\repos\LearnXamarin\DemoPassingData\DemoPassingData\DemoPassingData\obj\Debug\netstandard2.0\DemoPassingData.csprojAssemblyReference.cache
+C:\Users\lechi\source\repos\LearnXamarin\DemoPassingData\DemoPassingData\DemoPassingData\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\lechi\source\repos\LearnXamarin\DemoPassingData\DemoPassingData\DemoPassingData\obj\Debug\netstandard2.0\DemoPassingData.csproj.CoreCompileInputs.cache
+C:\Users\lechi\source\repos\LearnXamarin\DemoPassingData\DemoPassingData\DemoPassingData\obj\Debug\netstandard2.0\DemoPassingData.AssemblyInfoInputs.cache
+C:\Users\lechi\source\repos\LearnXamarin\DemoPassingData\DemoPassingData\DemoPassingData\obj\Debug\netstandard2.0\DemoPassingData.AssemblyInfo.cs
+C:\Users\lechi\source\repos\LearnXamarin\DemoPassingData\DemoPassingData\DemoPassingData\bin\Debug\netstandard2.0\DemoPassingData.deps.json
+C:\Users\lechi\source\repos\LearnXamarin\DemoPassingData\DemoPassingData\DemoPassingData\bin\Debug\netstandard2.0\DemoPassingData.dll
+C:\Users\lechi\source\repos\LearnXamarin\DemoPassingData\DemoPassingData\DemoPassingData\bin\Debug\netstandard2.0\DemoPassingData.pdb
+C:\Users\lechi\source\repos\LearnXamarin\DemoPassingData\DemoPassingData\DemoPassingData\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\lechi\source\repos\LearnXamarin\DemoPassingData\DemoPassingData\DemoPassingData\obj\Debug\netstandard2.0\DemoPassingData.dll
+C:\Users\lechi\source\repos\LearnXamarin\DemoPassingData\DemoPassingData\DemoPassingData\obj\Debug\netstandard2.0\DemoPassingData.pdb
+C:\Users\lechi\source\repos\LearnXamarin\DemoPassingData\DemoPassingData\DemoPassingData\obj\Debug\netstandard2.0\SecondPage.xaml.g.cs
+C:\Users\lechi\source\repos\LearnXamarin\DemoPassingData\DemoPassingData\DemoPassingData\obj\Debug\netstandard2.0\App.xaml.g.cs
