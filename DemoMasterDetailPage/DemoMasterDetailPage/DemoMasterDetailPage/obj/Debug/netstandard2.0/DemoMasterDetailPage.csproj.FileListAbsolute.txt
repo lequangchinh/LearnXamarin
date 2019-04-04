@@ -1,0 +1,16 @@
+C:\Users\lechi\source\repos\LearnXamarin\DemoMasterDetailPage\DemoMasterDetailPage\DemoMasterDetailPage\bin\Debug\netstandard2.0\DemoMasterDetailPage.deps.json
+C:\Users\lechi\source\repos\LearnXamarin\DemoMasterDetailPage\DemoMasterDetailPage\DemoMasterDetailPage\bin\Debug\netstandard2.0\DemoMasterDetailPage.dll
+C:\Users\lechi\source\repos\LearnXamarin\DemoMasterDetailPage\DemoMasterDetailPage\DemoMasterDetailPage\bin\Debug\netstandard2.0\DemoMasterDetailPage.pdb
+C:\Users\lechi\source\repos\LearnXamarin\DemoMasterDetailPage\DemoMasterDetailPage\DemoMasterDetailPage\obj\Debug\netstandard2.0\DemoMasterDetailPage.csprojAssemblyReference.cache
+C:\Users\lechi\source\repos\LearnXamarin\DemoMasterDetailPage\DemoMasterDetailPage\DemoMasterDetailPage\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\lechi\source\repos\LearnXamarin\DemoMasterDetailPage\DemoMasterDetailPage\DemoMasterDetailPage\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\lechi\source\repos\LearnXamarin\DemoMasterDetailPage\DemoMasterDetailPage\DemoMasterDetailPage\obj\Debug\netstandard2.0\DemoMasterDetailPage.csproj.CoreCompileInputs.cache
+C:\Users\lechi\source\repos\LearnXamarin\DemoMasterDetailPage\DemoMasterDetailPage\DemoMasterDetailPage\obj\Debug\netstandard2.0\DemoMasterDetailPage.AssemblyInfoInputs.cache
+C:\Users\lechi\source\repos\LearnXamarin\DemoMasterDetailPage\DemoMasterDetailPage\DemoMasterDetailPage\obj\Debug\netstandard2.0\DemoMasterDetailPage.AssemblyInfo.cs
+C:\Users\lechi\source\repos\LearnXamarin\DemoMasterDetailPage\DemoMasterDetailPage\DemoMasterDetailPage\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\lechi\source\repos\LearnXamarin\DemoMasterDetailPage\DemoMasterDetailPage\DemoMasterDetailPage\obj\Debug\netstandard2.0\DemoMasterDetailPage.dll
+C:\Users\lechi\source\repos\LearnXamarin\DemoMasterDetailPage\DemoMasterDetailPage\DemoMasterDetailPage\obj\Debug\netstandard2.0\DemoMasterDetailPage.pdb
+C:\Users\lechi\source\repos\LearnXamarin\DemoMasterDetailPage\DemoMasterDetailPage\DemoMasterDetailPage\obj\Debug\netstandard2.0\MasterPage.xaml.g.cs
+C:\Users\lechi\source\repos\LearnXamarin\DemoMasterDetailPage\DemoMasterDetailPage\DemoMasterDetailPage\obj\Debug\netstandard2.0\ContactsPage.xaml.g.cs
+C:\Users\lechi\source\repos\LearnXamarin\DemoMasterDetailPage\DemoMasterDetailPage\DemoMasterDetailPage\obj\Debug\netstandard2.0\ReminderPage.xaml.g.cs
+C:\Users\lechi\source\repos\LearnXamarin\DemoMasterDetailPage\DemoMasterDetailPage\DemoMasterDetailPage\obj\Debug\netstandard2.0\TodoListPage.xaml.g.cs

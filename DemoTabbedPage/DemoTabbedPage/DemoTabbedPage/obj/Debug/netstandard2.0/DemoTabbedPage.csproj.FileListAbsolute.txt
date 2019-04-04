@@ -1,0 +1,15 @@
+C:\Users\lechi\source\repos\LearnXamarin\DemoTabbedPage\DemoTabbedPage\DemoTabbedPage\bin\Debug\netstandard2.0\DemoTabbedPage.deps.json
+C:\Users\lechi\source\repos\LearnXamarin\DemoTabbedPage\DemoTabbedPage\DemoTabbedPage\bin\Debug\netstandard2.0\DemoTabbedPage.dll
+C:\Users\lechi\source\repos\LearnXamarin\DemoTabbedPage\DemoTabbedPage\DemoTabbedPage\bin\Debug\netstandard2.0\DemoTabbedPage.pdb
+C:\Users\lechi\source\repos\LearnXamarin\DemoTabbedPage\DemoTabbedPage\DemoTabbedPage\obj\Debug\netstandard2.0\DemoTabbedPage.csprojAssemblyReference.cache
+C:\Users\lechi\source\repos\LearnXamarin\DemoTabbedPage\DemoTabbedPage\DemoTabbedPage\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\lechi\source\repos\LearnXamarin\DemoTabbedPage\DemoTabbedPage\DemoTabbedPage\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\lechi\source\repos\LearnXamarin\DemoTabbedPage\DemoTabbedPage\DemoTabbedPage\obj\Debug\netstandard2.0\DemoTabbedPage.csproj.CoreCompileInputs.cache
+C:\Users\lechi\source\repos\LearnXamarin\DemoTabbedPage\DemoTabbedPage\DemoTabbedPage\obj\Debug\netstandard2.0\DemoTabbedPage.AssemblyInfoInputs.cache
+C:\Users\lechi\source\repos\LearnXamarin\DemoTabbedPage\DemoTabbedPage\DemoTabbedPage\obj\Debug\netstandard2.0\DemoTabbedPage.AssemblyInfo.cs
+C:\Users\lechi\source\repos\LearnXamarin\DemoTabbedPage\DemoTabbedPage\DemoTabbedPage\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\lechi\source\repos\LearnXamarin\DemoTabbedPage\DemoTabbedPage\DemoTabbedPage\obj\Debug\netstandard2.0\DemoTabbedPage.dll
+C:\Users\lechi\source\repos\LearnXamarin\DemoTabbedPage\DemoTabbedPage\DemoTabbedPage\obj\Debug\netstandard2.0\DemoTabbedPage.pdb
+C:\Users\lechi\source\repos\LearnXamarin\DemoTabbedPage\DemoTabbedPage\DemoTabbedPage\obj\Debug\netstandard2.0\TodayPage.xaml.g.cs
+C:\Users\lechi\source\repos\LearnXamarin\DemoTabbedPage\DemoTabbedPage\DemoTabbedPage\obj\Debug\netstandard2.0\SchedulePage.xaml.g.cs
+C:\Users\lechi\source\repos\LearnXamarin\DemoTabbedPage\DemoTabbedPage\DemoTabbedPage\obj\Debug\netstandard2.0\SettingsPage.xaml.g.cs
