@@ -1,0 +1,12 @@
+C:\Users\lechi\source\repos\LearnXamarin\DemoCalculator\DemoCalculator\DemoCalculator\obj\Debug\netstandard2.0\DemoCalculator.csprojAssemblyReference.cache
+C:\Users\lechi\source\repos\LearnXamarin\DemoCalculator\DemoCalculator\DemoCalculator\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\lechi\source\repos\LearnXamarin\DemoCalculator\DemoCalculator\DemoCalculator\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\lechi\source\repos\LearnXamarin\DemoCalculator\DemoCalculator\DemoCalculator\obj\Debug\netstandard2.0\DemoCalculator.csproj.CoreCompileInputs.cache
+C:\Users\lechi\source\repos\LearnXamarin\DemoCalculator\DemoCalculator\DemoCalculator\obj\Debug\netstandard2.0\DemoCalculator.AssemblyInfoInputs.cache
+C:\Users\lechi\source\repos\LearnXamarin\DemoCalculator\DemoCalculator\DemoCalculator\obj\Debug\netstandard2.0\DemoCalculator.AssemblyInfo.cs
+C:\Users\lechi\source\repos\LearnXamarin\DemoCalculator\DemoCalculator\DemoCalculator\obj\Debug\netstandard2.0\DemoCalculator.dll
+C:\Users\lechi\source\repos\LearnXamarin\DemoCalculator\DemoCalculator\DemoCalculator\obj\Debug\netstandard2.0\DemoCalculator.pdb
+C:\Users\lechi\source\repos\LearnXamarin\DemoCalculator\DemoCalculator\DemoCalculator\bin\Debug\netstandard2.0\DemoCalculator.deps.json
+C:\Users\lechi\source\repos\LearnXamarin\DemoCalculator\DemoCalculator\DemoCalculator\bin\Debug\netstandard2.0\DemoCalculator.dll
+C:\Users\lechi\source\repos\LearnXamarin\DemoCalculator\DemoCalculator\DemoCalculator\bin\Debug\netstandard2.0\DemoCalculator.pdb
+C:\Users\lechi\source\repos\LearnXamarin\DemoCalculator\DemoCalculator\DemoCalculator\obj\Debug\netstandard2.0\XamlC.stamp

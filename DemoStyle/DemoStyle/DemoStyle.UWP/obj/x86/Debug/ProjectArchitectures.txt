@@ -1,0 +1,1 @@
+C:\Users\lechi\source\repos\DemoStyle\DemoStyle\DemoStyle.UWP\DemoStyle.UWP.csproj;x86

@@ -1,0 +1,12 @@
+C:\Users\lechi\source\repos\LearnXamarin\DemoThemes\DemoThemes\DemoThemes\bin\Debug\netstandard2.0\DemoThemes.deps.json
+C:\Users\lechi\source\repos\LearnXamarin\DemoThemes\DemoThemes\DemoThemes\bin\Debug\netstandard2.0\DemoThemes.dll
+C:\Users\lechi\source\repos\LearnXamarin\DemoThemes\DemoThemes\DemoThemes\obj\Debug\netstandard2.0\DemoThemes.csprojAssemblyReference.cache
+C:\Users\lechi\source\repos\LearnXamarin\DemoThemes\DemoThemes\DemoThemes\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\lechi\source\repos\LearnXamarin\DemoThemes\DemoThemes\DemoThemes\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\lechi\source\repos\LearnXamarin\DemoThemes\DemoThemes\DemoThemes\obj\Debug\netstandard2.0\DemoThemes.csproj.CoreCompileInputs.cache
+C:\Users\lechi\source\repos\LearnXamarin\DemoThemes\DemoThemes\DemoThemes\obj\Debug\netstandard2.0\DemoThemes.AssemblyInfoInputs.cache
+C:\Users\lechi\source\repos\LearnXamarin\DemoThemes\DemoThemes\DemoThemes\obj\Debug\netstandard2.0\DemoThemes.AssemblyInfo.cs
+C:\Users\lechi\source\repos\LearnXamarin\DemoThemes\DemoThemes\DemoThemes\bin\Debug\netstandard2.0\DemoThemes.pdb
+C:\Users\lechi\source\repos\LearnXamarin\DemoThemes\DemoThemes\DemoThemes\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\lechi\source\repos\LearnXamarin\DemoThemes\DemoThemes\DemoThemes\obj\Debug\netstandard2.0\DemoThemes.dll
+C:\Users\lechi\source\repos\LearnXamarin\DemoThemes\DemoThemes\DemoThemes\obj\Debug\netstandard2.0\DemoThemes.pdb
