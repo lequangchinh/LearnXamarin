@@ -14,7 +14,9 @@ namespace DemoStyle
             // MainPage = new DemoInheritanceStyle();
             // MainPage = new DemoExplicitStyle();
             // MainPage = new DemoImplicitStyle();
-            MainPage = new MainPage();
+            // MainPage = new Demo();
+            // MainPage = new MainPage();
+            MainPage = new DemoDeviceStyle();
         }
 
         protected override void OnStart()

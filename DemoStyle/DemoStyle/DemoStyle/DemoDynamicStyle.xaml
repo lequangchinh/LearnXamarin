@@ -9,7 +9,7 @@
                 <Setter Property="HorizontalOptions" Value="CenterAndExpand"/>
                 <Setter Property="VerticalOptions" Value="Center"/>
             </Style>
-            <Style x:Key="styBlueSearchBar" TargetType="SearchBar" BasedOn="{StaticResource styBase}">
+            <Style x:Key="styBlueSearchBar" TargetType="SearchBar">
                 <Setter Property="BackgroundColor" Value="Blue"/>
             </Style>
             <Style x:Key="styGreenSearchBar" TargetType="SearchBar">

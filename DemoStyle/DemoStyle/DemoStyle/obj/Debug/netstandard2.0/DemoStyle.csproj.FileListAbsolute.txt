@@ -30,3 +30,6 @@ C:\Users\lechi\source\repos\LearnXamarin\DemoStyle\DemoStyle\DemoStyle\obj\Debug
 C:\Users\lechi\source\repos\LearnXamarin\DemoStyle\DemoStyle\DemoStyle\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\lechi\source\repos\LearnXamarin\DemoStyle\DemoStyle\DemoStyle\obj\Debug\netstandard2.0\DemoStyle.dll
 C:\Users\lechi\source\repos\LearnXamarin\DemoStyle\DemoStyle\DemoStyle\obj\Debug\netstandard2.0\DemoStyle.pdb
+C:\Users\lechi\source\repos\LearnXamarin\DemoStyle\DemoStyle\DemoStyle\obj\Debug\netstandard2.0\Demo.xaml.g.cs
+C:\Users\lechi\source\repos\LearnXamarin\DemoStyle\DemoStyle\DemoStyle\obj\Debug\netstandard2.0\DemoCSSStyle.css.g.cs
+C:\Users\lechi\source\repos\LearnXamarin\DemoStyle\DemoStyle\DemoStyle\obj\Debug\netstandard2.0\DemoDeviceStyle.xaml.g.cs

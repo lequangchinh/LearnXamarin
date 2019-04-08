@@ -207,4 +207,6 @@ C:\Users\lechi\source\repos\LearnXamarin\DemoStyle\DemoStyle\DemoStyle.Android\o
 C:\Users\lechi\source\repos\LearnXamarin\DemoStyle\DemoStyle\DemoStyle.Android\obj\Debug\81\android\assets\Xamarin.Forms.Core.pdb
 C:\Users\lechi\source\repos\LearnXamarin\DemoStyle\DemoStyle\DemoStyle.Android\obj\Debug\81\android\assets\Xamarin.Forms.Platform.Android.pdb
 C:\Users\lechi\source\repos\LearnXamarin\DemoStyle\DemoStyle\DemoStyle.Android\obj\Debug\81\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Users\lechi\source\repos\LearnXamarin\DemoStyle\DemoStyle\DemoStyle\bin\Debug\netstandard2.0\DemoStyle.dll
+C:\Users\lechi\source\repos\LearnXamarin\DemoStyle\DemoStyle\DemoStyle.Android\bin\Debug\DemoStyle.dll.mdb
 C:\Users\lechi\source\repos\LearnXamarin\DemoStyle\DemoStyle\DemoStyle.Android\obj\Debug\81\linksrc\DemoStyle.dll.mdb
