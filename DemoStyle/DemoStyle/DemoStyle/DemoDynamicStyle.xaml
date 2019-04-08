@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DemoStyle.DemoDynamicStyle"
+             Title="Dynamic Style">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Style x:Key="styBase" TargetType="View">
+                <Setter Property="HorizontalOptions" Value="CenterAndExpand"/>
+                <Setter Property="VerticalOptions" Value="Center"/>
+            </Style>
+            <Style x:Key="styBlueSearchBar" TargetType="SearchBar" BasedOn="{StaticResource styBase}">
+                <Setter Property="BackgroundColor" Value="Blue"/>
+            </Style>
+            <Style x:Key="styGreenSearchBar" TargetType="SearchBar">
+                <Setter Property="BackgroundColor" Value="Green"/>
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="Center">
+            <SearchBar Placeholder="Search bar" Style="{DynamicResource stySearchBar}"/>
+            <SearchBar Placeholder="Search bar" Style="{DynamicResource stySearchBar}"/>
+            <SearchBar Placeholder="Search bar" Style="{DynamicResource stySearchBar}"/>
+            <Button Text="Change Style" Clicked="OnChangeStyleButtonClicked"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

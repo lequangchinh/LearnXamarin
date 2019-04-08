@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DemoStyle.DemoExplicitStyle"
+             Title="Explicit Style">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Style x:Key="styStackLayoutUserPass" TargetType="StackLayout">
+                <Setter Property="Orientation" Value="Horizontal"/>
+                <Setter Property="HorizontalOptions" Value="Center"/>
+                <Setter Property="VerticalOptions" Value="Center"/>
+            </Style>
+            
+            <Style x:Key="styLabelLogin" TargetType="Label">
+                <Setter Property="HorizontalOptions" Value="Center"/>
+                <Setter Property="FontSize" Value="Large"/>
+            </Style>
+            
+            <Style x:Key="styText" TargetType="Label">
+                <Setter Property="FontAttributes" Value="Bold"/>
+                <Setter Property="FontSize" Value="Medium"/>
+                <Setter Property="HorizontalOptions" Value="Start"/>
+            </Style>
+            
+            <Style x:Key="styTextEntry" TargetType="Entry">
+                <Setter Property="TextColor" Value="Red"/>
+            </Style>
+            
+            <Style x:Key="styButton" TargetType="Button">
+                <Setter Property="IsEnabled" Value="False"/>
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Login" Style="{StaticResource styLabelLogin}"/>
+            
+            <StackLayout Style="{StaticResource styStackLayoutUserPass}">
+                <Label Text="User name:" Style="{StaticResource styText}"/>
+            <Entry Placeholder="User Name" Style="{StaticResource styTextEntry}"/>
+            </StackLayout>
+            <StackLayout Style="{StaticResource styStackLayoutUserPass}">
+                <Label Text="Password:" Style="{StaticResource styText}"/>
+                <Entry Placeholder="User Name" Style="{StaticResource styTextEntry}"/>
+            </StackLayout>
+            
+            <Button Text="Submit" Style="{StaticResource styButton}"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

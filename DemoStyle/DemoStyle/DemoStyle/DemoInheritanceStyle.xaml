@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DemoStyle.DemoInheritanceStyle"
+             Title="Inheritance Style">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Style x:Key="styBase" TargetType="View">
+                <Setter Property="HorizontalOptions" Value="CenterAndExpand"/>
+                <Setter Property="VerticalOptions" Value="Center"/>
+                <Setter Property="BackgroundColor" Value="LightGray"/>
+            </Style>
+            <Style x:Key="styStackLayout" TargetType="StackLayout">
+                <Setter Property="VerticalOptions" Value="Center"/>
+            </Style>
+            <Style x:Key="styLabel" BasedOn="{StaticResource styBase}" TargetType="Label">
+                <Setter Property="TextColor" Value="Red"/>
+                <Setter Property="FontAttributes" Value="Italic"/>
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <ContentPage.Content>
+        <StackLayout Style="{StaticResource styStackLayout}">
+            <Label Text="Test Inheritance Style" Style="{StaticResource styLabel}"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
