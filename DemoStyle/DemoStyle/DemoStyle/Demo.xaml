@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DemoStyle.Demo">
+    <ContentPage.Resources>
+        <!--<StyleSheet Source="/DemoCSSStyle.css"/>-->
+        <ResourceDictionary>
+            <Style x:Key="styBase" TargetType="View">
+                <Setter Property="BackgroundColor" Value="LightGray" />
+            </Style>
+
+            <Style x:Key="styLabel" TargetType="Label" >
+                <Setter Property="TextColor" Value="Red"/>
+            </Style>
+            
+            <Style TargetType="Label">
+                <Setter Property="TextColor" Value="Blue"/>
+            </Style>
+        </ResourceDictionary>
+        
+    </ContentPage.Resources>
+    <ContentPage.Content>
+        
+        <StackLayout>
+            <StackLayout.Resources>
+                <ResourceDictionary>
+                    <Style TargetType="Label">
+                        <Setter Property="TextColor" Value="Purple" />
+                    </Style>
+                    <Style x:Key="styLabel" TargetType="Label" BasedOn="{StaticResource styBase}">
+                        <Setter Property="TextColor" Value="Orange"/>
+                    </Style>
+                </ResourceDictionary>
+            </StackLayout.Resources>
+            <Label Text="Welcome to Xamarin.Forms!" Style="{StaticResource styLabel}"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

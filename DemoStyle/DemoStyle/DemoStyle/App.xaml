@@ -8,7 +8,10 @@
                 <Setter Property="BackgroundColor" Value="Gray"/>
             </Style>
             <Style TargetType="Label">
-                <Setter Property="TextColor" Value="Blue"/>
+                <Setter Property="TextColor" Value="Green"/>
+            </Style>
+            <Style x:Key="styLabel" TargetType="Label">
+                <Setter Property="TextColor" Value="Yellow"/>
             </Style>
         </ResourceDictionary>
     </Application.Resources>
