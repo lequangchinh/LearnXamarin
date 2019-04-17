@@ -1,0 +1,12 @@
+C:\Users\lechi\source\repos\LearnXamarin\DemoLogin\DemoLogin\DemoLogin\bin\Debug\netstandard2.0\DemoLogin.deps.json
+C:\Users\lechi\source\repos\LearnXamarin\DemoLogin\DemoLogin\DemoLogin\bin\Debug\netstandard2.0\DemoLogin.dll
+C:\Users\lechi\source\repos\LearnXamarin\DemoLogin\DemoLogin\DemoLogin\bin\Debug\netstandard2.0\DemoLogin.pdb
+C:\Users\lechi\source\repos\LearnXamarin\DemoLogin\DemoLogin\DemoLogin\obj\Debug\netstandard2.0\DemoLogin.csprojAssemblyReference.cache
+C:\Users\lechi\source\repos\LearnXamarin\DemoLogin\DemoLogin\DemoLogin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\lechi\source\repos\LearnXamarin\DemoLogin\DemoLogin\DemoLogin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\lechi\source\repos\LearnXamarin\DemoLogin\DemoLogin\DemoLogin\obj\Debug\netstandard2.0\DemoLogin.csproj.CoreCompileInputs.cache
+C:\Users\lechi\source\repos\LearnXamarin\DemoLogin\DemoLogin\DemoLogin\obj\Debug\netstandard2.0\DemoLogin.AssemblyInfoInputs.cache
+C:\Users\lechi\source\repos\LearnXamarin\DemoLogin\DemoLogin\DemoLogin\obj\Debug\netstandard2.0\DemoLogin.AssemblyInfo.cs
+C:\Users\lechi\source\repos\LearnXamarin\DemoLogin\DemoLogin\DemoLogin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\lechi\source\repos\LearnXamarin\DemoLogin\DemoLogin\DemoLogin\obj\Debug\netstandard2.0\DemoLogin.dll
+C:\Users\lechi\source\repos\LearnXamarin\DemoLogin\DemoLogin\DemoLogin\obj\Debug\netstandard2.0\DemoLogin.pdb

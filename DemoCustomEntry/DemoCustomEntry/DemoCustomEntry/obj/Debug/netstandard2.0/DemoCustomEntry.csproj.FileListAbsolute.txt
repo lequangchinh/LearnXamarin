@@ -1,0 +1,12 @@
+C:\Users\lechi\source\repos\LearnXamarin\DemoCustomEntry\DemoCustomEntry\DemoCustomEntry\bin\Debug\netstandard2.0\DemoCustomEntry.deps.json
+C:\Users\lechi\source\repos\LearnXamarin\DemoCustomEntry\DemoCustomEntry\DemoCustomEntry\bin\Debug\netstandard2.0\DemoCustomEntry.dll
+C:\Users\lechi\source\repos\LearnXamarin\DemoCustomEntry\DemoCustomEntry\DemoCustomEntry\bin\Debug\netstandard2.0\DemoCustomEntry.pdb
+C:\Users\lechi\source\repos\LearnXamarin\DemoCustomEntry\DemoCustomEntry\DemoCustomEntry\obj\Debug\netstandard2.0\DemoCustomEntry.csprojAssemblyReference.cache
+C:\Users\lechi\source\repos\LearnXamarin\DemoCustomEntry\DemoCustomEntry\DemoCustomEntry\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\lechi\source\repos\LearnXamarin\DemoCustomEntry\DemoCustomEntry\DemoCustomEntry\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\lechi\source\repos\LearnXamarin\DemoCustomEntry\DemoCustomEntry\DemoCustomEntry\obj\Debug\netstandard2.0\DemoCustomEntry.csproj.CoreCompileInputs.cache
+C:\Users\lechi\source\repos\LearnXamarin\DemoCustomEntry\DemoCustomEntry\DemoCustomEntry\obj\Debug\netstandard2.0\DemoCustomEntry.AssemblyInfoInputs.cache
+C:\Users\lechi\source\repos\LearnXamarin\DemoCustomEntry\DemoCustomEntry\DemoCustomEntry\obj\Debug\netstandard2.0\DemoCustomEntry.AssemblyInfo.cs
+C:\Users\lechi\source\repos\LearnXamarin\DemoCustomEntry\DemoCustomEntry\DemoCustomEntry\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\lechi\source\repos\LearnXamarin\DemoCustomEntry\DemoCustomEntry\DemoCustomEntry\obj\Debug\netstandard2.0\DemoCustomEntry.dll
+C:\Users\lechi\source\repos\LearnXamarin\DemoCustomEntry\DemoCustomEntry\DemoCustomEntry\obj\Debug\netstandard2.0\DemoCustomEntry.pdb
