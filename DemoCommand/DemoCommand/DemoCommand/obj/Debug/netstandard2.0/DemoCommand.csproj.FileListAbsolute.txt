@@ -1,0 +1,12 @@
+C:\Users\lechi\source\repos\LearnXamarin\DemoCommand\DemoCommand\DemoCommand\obj\Debug\netstandard2.0\DemoCommand.csprojAssemblyReference.cache
+C:\Users\lechi\source\repos\LearnXamarin\DemoCommand\DemoCommand\DemoCommand\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\lechi\source\repos\LearnXamarin\DemoCommand\DemoCommand\DemoCommand\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\lechi\source\repos\LearnXamarin\DemoCommand\DemoCommand\DemoCommand\obj\Debug\netstandard2.0\DemoCommand.csproj.CoreCompileInputs.cache
+C:\Users\lechi\source\repos\LearnXamarin\DemoCommand\DemoCommand\DemoCommand\obj\Debug\netstandard2.0\DemoCommand.AssemblyInfoInputs.cache
+C:\Users\lechi\source\repos\LearnXamarin\DemoCommand\DemoCommand\DemoCommand\obj\Debug\netstandard2.0\DemoCommand.AssemblyInfo.cs
+C:\Users\lechi\source\repos\LearnXamarin\DemoCommand\DemoCommand\DemoCommand\bin\Debug\netstandard2.0\DemoCommand.deps.json
+C:\Users\lechi\source\repos\LearnXamarin\DemoCommand\DemoCommand\DemoCommand\bin\Debug\netstandard2.0\DemoCommand.dll
+C:\Users\lechi\source\repos\LearnXamarin\DemoCommand\DemoCommand\DemoCommand\bin\Debug\netstandard2.0\DemoCommand.pdb
+C:\Users\lechi\source\repos\LearnXamarin\DemoCommand\DemoCommand\DemoCommand\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\lechi\source\repos\LearnXamarin\DemoCommand\DemoCommand\DemoCommand\obj\Debug\netstandard2.0\DemoCommand.dll
+C:\Users\lechi\source\repos\LearnXamarin\DemoCommand\DemoCommand\DemoCommand\obj\Debug\netstandard2.0\DemoCommand.pdb

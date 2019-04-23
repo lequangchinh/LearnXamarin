@@ -1,0 +1,13 @@
+C:\Users\lechi\source\repos\LearnXamarin\DemoConverters\DemoConverters\DemoConverters\bin\Debug\netstandard2.0\DemoConverters.deps.json
+C:\Users\lechi\source\repos\LearnXamarin\DemoConverters\DemoConverters\DemoConverters\bin\Debug\netstandard2.0\DemoConverters.dll
+C:\Users\lechi\source\repos\LearnXamarin\DemoConverters\DemoConverters\DemoConverters\bin\Debug\netstandard2.0\DemoConverters.pdb
+C:\Users\lechi\source\repos\LearnXamarin\DemoConverters\DemoConverters\DemoConverters\obj\Debug\netstandard2.0\DemoConverters.csprojAssemblyReference.cache
+C:\Users\lechi\source\repos\LearnXamarin\DemoConverters\DemoConverters\DemoConverters\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\lechi\source\repos\LearnXamarin\DemoConverters\DemoConverters\DemoConverters\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\lechi\source\repos\LearnXamarin\DemoConverters\DemoConverters\DemoConverters\obj\Debug\netstandard2.0\View\User.xaml.g.cs
+C:\Users\lechi\source\repos\LearnXamarin\DemoConverters\DemoConverters\DemoConverters\obj\Debug\netstandard2.0\DemoConverters.csproj.CoreCompileInputs.cache
+C:\Users\lechi\source\repos\LearnXamarin\DemoConverters\DemoConverters\DemoConverters\obj\Debug\netstandard2.0\DemoConverters.AssemblyInfoInputs.cache
+C:\Users\lechi\source\repos\LearnXamarin\DemoConverters\DemoConverters\DemoConverters\obj\Debug\netstandard2.0\DemoConverters.AssemblyInfo.cs
+C:\Users\lechi\source\repos\LearnXamarin\DemoConverters\DemoConverters\DemoConverters\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\lechi\source\repos\LearnXamarin\DemoConverters\DemoConverters\DemoConverters\obj\Debug\netstandard2.0\DemoConverters.dll
+C:\Users\lechi\source\repos\LearnXamarin\DemoConverters\DemoConverters\DemoConverters\obj\Debug\netstandard2.0\DemoConverters.pdb

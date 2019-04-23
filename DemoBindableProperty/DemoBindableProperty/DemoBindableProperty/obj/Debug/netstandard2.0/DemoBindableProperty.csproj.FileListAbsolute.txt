@@ -1,0 +1,12 @@
+C:\Users\lechi\source\repos\LearnXamarin\DemoBindableProperty\DemoBindableProperty\DemoBindableProperty\bin\Debug\netstandard2.0\DemoBindableProperty.deps.json
+C:\Users\lechi\source\repos\LearnXamarin\DemoBindableProperty\DemoBindableProperty\DemoBindableProperty\bin\Debug\netstandard2.0\DemoBindableProperty.dll
+C:\Users\lechi\source\repos\LearnXamarin\DemoBindableProperty\DemoBindableProperty\DemoBindableProperty\bin\Debug\netstandard2.0\DemoBindableProperty.pdb
+C:\Users\lechi\source\repos\LearnXamarin\DemoBindableProperty\DemoBindableProperty\DemoBindableProperty\obj\Debug\netstandard2.0\DemoBindableProperty.csprojAssemblyReference.cache
+C:\Users\lechi\source\repos\LearnXamarin\DemoBindableProperty\DemoBindableProperty\DemoBindableProperty\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\lechi\source\repos\LearnXamarin\DemoBindableProperty\DemoBindableProperty\DemoBindableProperty\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\lechi\source\repos\LearnXamarin\DemoBindableProperty\DemoBindableProperty\DemoBindableProperty\obj\Debug\netstandard2.0\DemoBindableProperty.csproj.CoreCompileInputs.cache
+C:\Users\lechi\source\repos\LearnXamarin\DemoBindableProperty\DemoBindableProperty\DemoBindableProperty\obj\Debug\netstandard2.0\DemoBindableProperty.AssemblyInfoInputs.cache
+C:\Users\lechi\source\repos\LearnXamarin\DemoBindableProperty\DemoBindableProperty\DemoBindableProperty\obj\Debug\netstandard2.0\DemoBindableProperty.AssemblyInfo.cs
+C:\Users\lechi\source\repos\LearnXamarin\DemoBindableProperty\DemoBindableProperty\DemoBindableProperty\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\lechi\source\repos\LearnXamarin\DemoBindableProperty\DemoBindableProperty\DemoBindableProperty\obj\Debug\netstandard2.0\DemoBindableProperty.dll
+C:\Users\lechi\source\repos\LearnXamarin\DemoBindableProperty\DemoBindableProperty\DemoBindableProperty\obj\Debug\netstandard2.0\DemoBindableProperty.pdb

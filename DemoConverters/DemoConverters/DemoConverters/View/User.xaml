@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:DemoConverters.ViewModel"
+             xmlns:converters="clr-namespace:DemoConverters.Convertters"
+             x:Class="DemoConverters.View.User">
+
+    <ContentPage.BindingContext>
+        <local:UserViewModel/>
+    </ContentPage.BindingContext>
+
+    <ContentPage.Resources>
+        <converters:UserConterver
+            x:Key="userConverter"/>
+    </ContentPage.Resources>
+
+    <ContentPage.Content>
+
+        <StackLayout VerticalOptions="CenterAndExpand"
+                     HorizontalOptions="CenterAndExpand">
+            <Label Text="{Binding User.Name, Mode=TwoWay}"
+                   x:Name="lblName"/>
+            <Label IsVisible="False"
+                   Text="{Binding User.Sex, Converter={StaticResource userConverter}}"
+                   x:Name="lblBindingSex"/>
+            <Label Text="{Binding Source={x:Reference entrySex}, Path=Text, Converter={StaticResource userConverter},ConverterParameter={x:Reference lblBindingSex}}"
+                   x:Name="lblSex"/>
+            <Entry x:Name="entrySex"
+                   Placeholder="Enter sex"/>
+
+            
+        </StackLayout>
+
+    </ContentPage.Content>
+</ContentPage>

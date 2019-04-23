@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:DemoCommand"
+             x:Class="DemoCommand.MainPage"
+             Title="Demo command">
+    <ContentPage.BindingContext>
+        <local:TestCommand/>
+    </ContentPage.BindingContext>
+    <StackLayout HorizontalOptions="CenterAndExpand"
+                 VerticalOptions="CenterAndExpand">
+        <!-- Place new controls here -->
+        <Label Text="Demo command" 
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />
+        <Button Text="User command"
+                    Command="{Binding Comman1}"/>
+        <Label Text="{Binding CntClick}"
+                       x:Name="lblCount"/>
+    </StackLayout>
+
+</ContentPage>

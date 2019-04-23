@@ -1,0 +1,4 @@
+C:\Users\lechi\source\repos\LearnXamarin\DemoBindableProperty\DemoBindableProperty\DemoBindableProperty.Android\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+C:\Users\lechi\source\repos\LearnXamarin\DemoBindableProperty\DemoBindableProperty\DemoBindableProperty.Android\obj\Debug\81\DemoBindableProperty.Android.csprojAssemblyReference.cache
+C:\Users\lechi\source\repos\LearnXamarin\DemoBindableProperty\DemoBindableProperty\DemoBindableProperty.Android\obj\Debug\81\libraryimports.cache.stamp
+C:\Users\lechi\source\repos\LearnXamarin\DemoBindableProperty\DemoBindableProperty\DemoBindableProperty.Android\obj\Debug\81\res.flag

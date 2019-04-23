@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DemoBindingData.DemoBindingContex">
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="Gray">
+            <Label x:Name="lblSize"/>
+            <Label x:Name="lblTextSize"
+                   BindingContext="{x:Reference Name = sldTextSize2}"
+                   FontSize="{Binding Path=Value}"
+                   Text="{Binding Path = Value, StringFormat='Text Sizet:{0:F0}'}"/>
+            <Slider x:Name="sldTextSize1"
+                    Value="12"
+                    Maximum="48"
+                    Minimum="12"
+                    VerticalOptions="CenterAndExpand"/>
+            <Slider x:Name="sldTextSize2"
+                    Value="12"
+                    Maximum="48"
+                    Minimum="12"
+                    VerticalOptions="CenterAndExpand"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

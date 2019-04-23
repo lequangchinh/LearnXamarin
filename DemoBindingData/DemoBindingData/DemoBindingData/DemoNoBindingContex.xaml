@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DemoBindingData.DemoNoBindingContex"
+             Title="Do not using binding data">
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="CenterAndExpand">
+            
+            <Label x:Name="lblText"
+                   VerticalOptions="CenterAndExpand"
+                   HorizontalOptions="Center">Text</Label>
+
+            <Slider x:Name="sldRotation"
+                    Minimum="0"
+                    Maximum="360"
+                    Value="2"
+                    VerticalOptions="CenterAndExpand"/>
+            <!--
+            <Label x:Name="lblText"
+                   HorizontalOptions="CenterAndExpand"
+                   VerticalOptions="Center"
+                   Rotation="{Binding Source={x:Reference sldRotation}, Path=Value}"
+                   >
+                Text
+            </Label>
+            <Slider x:Name="sldFontSize"
+                    Value="12"
+                    Minimum="12"
+                    Maximum="48"
+                    VerticalOptions="CenterAndExpand"/>
+            
+            -->
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

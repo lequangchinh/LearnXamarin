@@ -1,0 +1,15 @@
+C:\Users\lechi\source\repos\LearnXamarin\DemoBindingData\DemoBindingData\DemoBindingData\bin\Debug\netstandard2.0\DemoBindingData.deps.json
+C:\Users\lechi\source\repos\LearnXamarin\DemoBindingData\DemoBindingData\DemoBindingData\bin\Debug\netstandard2.0\DemoBindingData.dll
+C:\Users\lechi\source\repos\LearnXamarin\DemoBindingData\DemoBindingData\DemoBindingData\bin\Debug\netstandard2.0\DemoBindingData.pdb
+C:\Users\lechi\source\repos\LearnXamarin\DemoBindingData\DemoBindingData\DemoBindingData\obj\Debug\netstandard2.0\DemoBindingData.csprojAssemblyReference.cache
+C:\Users\lechi\source\repos\LearnXamarin\DemoBindingData\DemoBindingData\DemoBindingData\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\lechi\source\repos\LearnXamarin\DemoBindingData\DemoBindingData\DemoBindingData\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\lechi\source\repos\LearnXamarin\DemoBindingData\DemoBindingData\DemoBindingData\obj\Debug\netstandard2.0\DemoBindingData.csproj.CoreCompileInputs.cache
+C:\Users\lechi\source\repos\LearnXamarin\DemoBindingData\DemoBindingData\DemoBindingData\obj\Debug\netstandard2.0\DemoBindingData.AssemblyInfoInputs.cache
+C:\Users\lechi\source\repos\LearnXamarin\DemoBindingData\DemoBindingData\DemoBindingData\obj\Debug\netstandard2.0\DemoBindingData.AssemblyInfo.cs
+C:\Users\lechi\source\repos\LearnXamarin\DemoBindingData\DemoBindingData\DemoBindingData\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\lechi\source\repos\LearnXamarin\DemoBindingData\DemoBindingData\DemoBindingData\obj\Debug\netstandard2.0\DemoBindingData.dll
+C:\Users\lechi\source\repos\LearnXamarin\DemoBindingData\DemoBindingData\DemoBindingData\obj\Debug\netstandard2.0\DemoBindingData.pdb
+C:\Users\lechi\source\repos\LearnXamarin\DemoBindingData\DemoBindingData\DemoBindingData\obj\Debug\netstandard2.0\DemoBindingContex.xaml.g.cs
+C:\Users\lechi\source\repos\LearnXamarin\DemoBindingData\DemoBindingData\DemoBindingData\obj\Debug\netstandard2.0\DemoNoBindingContex.xaml.g.cs
+C:\Users\lechi\source\repos\LearnXamarin\DemoBindingData\DemoBindingData\DemoBindingData\obj\Debug\netstandard2.0\HomePage.xaml.g.cs

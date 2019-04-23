@@ -1,0 +1,12 @@
+C:\Users\lechi\source\repos\LearnXamarin\DemoGetsture\DemoGetsture\DemoGetsture\bin\Debug\netstandard2.0\DemoGetsture.deps.json
+C:\Users\lechi\source\repos\LearnXamarin\DemoGetsture\DemoGetsture\DemoGetsture\bin\Debug\netstandard2.0\DemoGetsture.dll
+C:\Users\lechi\source\repos\LearnXamarin\DemoGetsture\DemoGetsture\DemoGetsture\bin\Debug\netstandard2.0\DemoGetsture.pdb
+C:\Users\lechi\source\repos\LearnXamarin\DemoGetsture\DemoGetsture\DemoGetsture\obj\Debug\netstandard2.0\DemoGetsture.csprojAssemblyReference.cache
+C:\Users\lechi\source\repos\LearnXamarin\DemoGetsture\DemoGetsture\DemoGetsture\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\lechi\source\repos\LearnXamarin\DemoGetsture\DemoGetsture\DemoGetsture\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\lechi\source\repos\LearnXamarin\DemoGetsture\DemoGetsture\DemoGetsture\obj\Debug\netstandard2.0\DemoGetsture.csproj.CoreCompileInputs.cache
+C:\Users\lechi\source\repos\LearnXamarin\DemoGetsture\DemoGetsture\DemoGetsture\obj\Debug\netstandard2.0\DemoGetsture.AssemblyInfoInputs.cache
+C:\Users\lechi\source\repos\LearnXamarin\DemoGetsture\DemoGetsture\DemoGetsture\obj\Debug\netstandard2.0\DemoGetsture.AssemblyInfo.cs
+C:\Users\lechi\source\repos\LearnXamarin\DemoGetsture\DemoGetsture\DemoGetsture\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\lechi\source\repos\LearnXamarin\DemoGetsture\DemoGetsture\DemoGetsture\obj\Debug\netstandard2.0\DemoGetsture.dll
+C:\Users\lechi\source\repos\LearnXamarin\DemoGetsture\DemoGetsture\DemoGetsture\obj\Debug\netstandard2.0\DemoGetsture.pdb
